@@ -2,9 +2,9 @@
   "name": "wetube",
   "version": "1.0.0",
   "description": "Cloning WeTube with Vanilla and Node.JS",
-  "main": "index.js",
+  "main": "init.js",
   "scripts": {
-    "start": "nodemon --exec babel-node index.js"
+    "start": "nodemon --exec babel-node init.js --delay 2"
   },
   "author": "Dongwon Kim",
   "license": "ISC",
