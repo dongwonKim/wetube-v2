@@ -4,7 +4,7 @@ export const videos = [
         title : "Video awsome",
         description: "This is thing what I want",
         views : 24,
-        videoFile : "",
+        videoFile : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id:23232,
             name:"dongwon",
@@ -16,7 +16,7 @@ export const videos = [
         title : "Video love",
         description: "This is thing what I want",
         views : 24,
-        videoFile : "",
+        videoFile : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id:23232,
             name:"dongwon",
@@ -28,7 +28,7 @@ export const videos = [
         title : "Video funny",
         description: "This is thing what I want",
         views : 24,
-        videoFile : "",
+        videoFile : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id:23232,
             name:"dongwon",
@@ -40,7 +40,7 @@ export const videos = [
         title : "Video good",
         description: "This is thing what I want",
         views : 2,
-        videoFile : "",
+        videoFile : "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
         creator : {
             id:23332,
             name:"dongwon",
